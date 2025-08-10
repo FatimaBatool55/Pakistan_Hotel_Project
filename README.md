@@ -5,7 +5,7 @@
 The primary objective of this project is to analyze hotel performance across multiple locations in Pakistan, focusing on revenue generation, customer ratings, booking trends, visitor demographics, and amenity usage. The dashboard provides valuable insights for hotel managers and stakeholders to make data-driven decisions to improve occupancy, pricing strategies, and customer satisfaction.
 
 ## Dataset Used
-<a href="C:\Users\sac computer\Desktop\Data Analytics\Power BI project\Project #3\Pakistan_Hotel_Project\Pakistan_Tourism_Hotels.csv">Pakistan_Tourism_Hotels.csv</a>
+<a href="https://github.com/FatimaBatool55/Pakistan_Hotel_Project/blob/main/Pakistan_Tourism_Hotels.csv">Pakistan_Tourism_Hotels.csv</a>
 
 The dataset contains information on 21 hotels, including:
 
