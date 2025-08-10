@@ -1,10 +1,10 @@
-Hotel Performance & Guest Insights Dashboard
+# Hotel Performance & Guest Insights Dashboard
 
-Project Objective
+## Project Objective
 
 The primary objective of this project is to analyze hotel performance across multiple locations in Pakistan, focusing on revenue generation, customer ratings, booking trends, visitor demographics, and amenity usage. The dashboard provides valuable insights for hotel managers and stakeholders to make data-driven decisions to improve occupancy, pricing strategies, and customer satisfaction.
 
-Dataset Used
+## Dataset Used
 
 The dataset contains information on 21 hotels, including:
 
@@ -16,7 +16,7 @@ Customer Insights: Customer type, rating, foreign vs. local visitors.
 
 Operational Details: Booking source, staff count, amenities count.
 
-Key Questions / KPIs
+## Key Questions / KPIs
 
 The dashboard aims to answer:
 
@@ -30,7 +30,7 @@ What are the most popular booking sources and customer types?
 
 How do amenities correlate with total revenue trends?
 
-Primary KPIs:
+## Primary KPIs:
 
 Total Revenue (Overall & by hotel)
 
@@ -42,7 +42,7 @@ Revenue by Booking Source
 
 Revenue by Amenities Count
 
-Process
+## Process
 
 Data Preparation:
 
@@ -66,12 +66,12 @@ Added slicers for hotel name and location filtering.
 
 Applied consistent theme and layout for readability.
 
-Dashboard Screenshot
+## Dashboard Screenshot
 
 ![Dashboard](https://github.com/user-attachments/assets/72021713-8571-449d-b0c2-1d1ee3fcf78d)
 
 
-Project Insights
+## Project Insights
 
 Top Performers: Beach Luxury and Marriott dominate in total revenue.
 
@@ -83,7 +83,7 @@ Booking Sources: Booking.com and Travel Agencies contribute the most revenue.
 
 Amenity Impact: Hotels with higher amenities count show a positive trend in total revenue.
 
-Final Conclusion
+# Final Conclusion
 
 This dashboard effectively consolidates key hotel performance indicators into a single visual space, enabling decision-makers to:
 
